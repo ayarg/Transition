@@ -8,5 +8,6 @@ setup(
         'numpy'
     ],
     author='SofiaAYA',
-    license='None'
+    license='None',
+    url="https://github.com/ayarg/Transition",
 )
