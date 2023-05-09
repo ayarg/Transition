@@ -1,1 +1,2 @@
-
+from TransitionFunctions import transitionHeatON
+from TransitionFunctions import transitionHeatOFF
